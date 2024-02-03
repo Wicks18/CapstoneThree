@@ -1,0 +1,4 @@
+# .gitignore
+Data/augmented-data-for-llm-detect-ai-generated-text.zip
+Data/final_test.csv
+Data/final_train.csv
