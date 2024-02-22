@@ -109,7 +109,7 @@ Unigrams look at a single sequence. The darker blue color implies overlap betwee
 ## Additional Data Needed
 Training on just 2500 essays for 2 prompts would be insufficient.
 
-“Augmented Data for LLM” provided 433,000 new student and AI generated essays.
+[Augmented Data for LLM](https://www.kaggle.com/datasets/jdragonxherrera/augmented-data-for-llm-detect-ai-generated-text) provided 433,000 new student and AI generated essays.
 
 The competition-provided essays plus my AI generated essays were now designated as a testing set.
 
